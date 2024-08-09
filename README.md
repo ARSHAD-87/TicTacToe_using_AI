@@ -1,5 +1,4 @@
-print('Tic Tac Toe Game using AI')
-print()
-print('This is code can play both single and multi-player game.\n')
-print('Single player : Computer vs You\n')
-print('Multi-player : You vs Other')
+Tic Tac Toe Game using AI
+This is code can play both single and multi-player game.
+Single player : Computer vs You 
+Multi-player : You vs Other
